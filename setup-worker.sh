@@ -13,7 +13,6 @@ chmod 0600 ~/.ssh/authorized_keys
 
 # Setup HDFS/Spark worker here
 # Setup HDFS
-mkdir /usr/local/hadoop/hdfs
 mkdir /usr/local/hadoop/hdfs/datanode
 
 # Setup Spark
